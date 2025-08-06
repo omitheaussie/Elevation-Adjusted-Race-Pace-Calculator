@@ -1,0 +1,29 @@
+Copyright (c) Omkar Karve
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software for personal, academic, or research
+purposes, provided that the above copyright notice and this permission notice
+appear in all copies.
+
+Commercial use (including incorporation into proprietary products or commercial
+services) is NOT permitted without explicit written permission from the authors.
+To request commercial licensing, please contact the contributors.
+
+Disclaimer of Warranty:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+Limitation of Liability:
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+Health and Safety Disclaimer:
+THIS SOFTWARE IS INTENDED FOR EDUCATIONAL AND PLANNING PURPOSES ONLY. THE AUTHORS
+AND CONTRIBUTORS ARE NOT RESPONSIBLE OR LIABLE FOR ANY INJURY, HEALTH ISSUES, OR
+OTHER HARM THAT MAY RESULT FROM THE USE OF THIS SOFTWARE OR ANY DECISIONS MADE
+BASED ON ITS OUTPUT. USERS ASSUME ALL RISKS ASSOCIATED WITH ATHLETIC TRAINING
+AND COMPETITION.
